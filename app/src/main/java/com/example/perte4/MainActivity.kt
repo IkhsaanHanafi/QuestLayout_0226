@@ -22,3 +22,7 @@ class MainActivity : ComponentActivity() {
                         modifier = Modifier.padding(paddingValues = innerPadding)
                     )
                 }
+            }
+        }
+    }
+}
